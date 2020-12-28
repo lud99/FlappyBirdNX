@@ -1,0 +1,1 @@
+C:\devkitPro\tools\bin\nxlink.exe -s FlappyBirdNX.nro -a 192.168.0.19
